@@ -1,0 +1,9 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+HTTP1 :1.loads resources one after the other, so if one resource cannot be loaded, it blocks all the other resources behind it.
+It need IP and port
+It take time to load the page because it doest have binary protocal
+It has drawbacks
+HTTP2 :It able to use a single TCP connection to send multiple streams of data at once so that no one resource blocks any other resource.
+It need only IP
+HTTP2 is best and Secure compare to HTTP1
+Binary protocols consume less bandwidth, are more efficiently parsed , less time and are less error-prone
