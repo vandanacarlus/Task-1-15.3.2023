@@ -1,0 +1,10 @@
+Objects: In JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. Objects, in JavaScript,  and forms the building blocks for modern JavaScript.
+These objects are quite different from JavaScript’s primitive data-types i.e (Number, String, Boolean, null, undefined and symbol)
+Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types.
+objects have “key: value” pairs. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+ex: let bike = {name: 'Suzukiaccess', maker:'Ducati', engine:'937cc'};
+The properties of an object define the characteristics of the object. You access the properties of an object with a simple dot-notation
+JavaScript variables in object also casesensitive
+The syntax of creating object using object literal is given below:
+
+object = property1:value1,property2 =value2,property3 = value3
